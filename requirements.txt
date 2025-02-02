@@ -1,0 +1,11 @@
+# Streamlit for building UI
+streamlit
+
+# Pytesseract for OCR of images/PDFs
+pytesseract
+
+# Library used for converting pdf documents into image formats
+pdf2image
+
+# Library used for image manipuation tasks
+Pillow
